@@ -33,7 +33,8 @@ Perform nozzle checks, head cleaning, and ink charge,
 Adjust head alignment and paper feed,
 
 And diagnose errors that prevent normal operation.
-
+<img src="https://www.datvietcomputer.com/images/202212/goods_img/575_P_1672081138384.png">
+Link download : https://www.datvietcomputer.com/download-phan-mem-reset-epson.html
 3. Why Epson Printers Need the Adjustment Program
 
 All Epson inkjet printers are equipped with a waste ink pad system — a sponge that collects excess ink during cleaning cycles. When the printer estimates that the pad is full, it stops printing and shows the message “Service Required” to prevent ink overflow.
